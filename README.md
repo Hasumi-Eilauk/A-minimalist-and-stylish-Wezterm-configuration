@@ -1,6 +1,3 @@
-This is a beautiful and concise Wezterm theme
-Suitable for all distributions!
-
 # 我的WezTerm配置
 
 **截图一**
@@ -14,22 +11,22 @@ Suitable for all distributions!
 
 [WezTerm终端](https://github.com/wezterm/wezterm/releases)
 
-安装目录：C:\soft\WezTerm-windows
-
 **2、安装`nerdfont`字体**
 
 [Nerd Font](https://www.nerdfonts.com/font-downloads)
 
-然后下载SylBols Nerd Font和DejaVuSansm Nerd Font字体
+然后下载SylBols Nerd Font  和  DejaVuSansm Nerd Font字体
+然后将他们放在~/.fonts/ 或 ~/.local/share/fonts/目录下
+最后使用fc-cache -fv命令来刷新一下字体
 
 
-## 使用方法
+## 使用教程
 
-1、下载本储存库压缩包
+1、下载或克隆压缩包到本地
 
-2、解压压缩包
+2、将压缩包解压
 
-3、将解压的文件放入：`$HOME/.config/wezterm`目录底下
+3、将解压后的文件放入：`$HOME/.config/wezterm`目录底下
 
 Windows目录：C:\Users\Fizz\.config\wezterm`
 
@@ -39,6 +36,7 @@ Macos：~/.config/wezterm
 
 安装完后重启你的wezterm终端
 如果报错的话请修改您的launch.lua文件，并将zsh一行改为'bash'
+
 ## 快捷键
 
 ```bash
