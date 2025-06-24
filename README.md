@@ -28,15 +28,15 @@
 
 3、将解压后的文件放入：`$HOME/.config/wezterm`目录底下
 
-Windows目录：C:\Users\Fizz\.config\wezterm`
+Windows目录：C:\Users\Fizz\.config\wezterm
 
 Llinux目录：$HOME/.config/wezterm
 
-Macos：~/.config/wezterm 
+Macos目录：~/.config/wezterm 
 
 安装完后重启你的wezterm终端
 如果报错的话请修改您的launch.lua文件，并将zsh一行改为'bash'
-
+如果您是windows,将他修改为cmd或power shell
 ## 快捷键
 
 ```bash
