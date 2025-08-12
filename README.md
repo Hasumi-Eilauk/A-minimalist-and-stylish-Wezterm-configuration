@@ -43,7 +43,6 @@ Macos目录：~/.config/wezterm
 
 安装完后重启你的wezterm终端，即可享受~  
 
-
 ## 快捷键
 
 ```bash
