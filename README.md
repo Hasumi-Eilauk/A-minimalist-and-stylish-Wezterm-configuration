@@ -2,7 +2,13 @@
 
 **截图一**
 
-![image](https://github.com/user-attachments/assets/36499980-85c7-4b76-b15f-6658c021e53f)
+<img width="1551" height="885" alt="image" src="https://github.com/user-attachments/assets/ae264fca-0bfc-4f42-8c2c-aef3c0dac490" />
+**截图二**
+<img width="1667" height="912" alt="image" src="https://github.com/user-attachments/assets/88d2c276-92d0-42af-820c-5908f49da157" />
+**截图三**
+<img width="1667" height="912" alt="image" src="https://github.com/user-attachments/assets/1624ada6-ccee-468f-8e52-211c38bf8f76" />
+
+
 
 
 ## 前提条件
