@@ -48,6 +48,7 @@ Macos目录：~/.config/wezterm
 ```bash
 #快捷键
 Ctrl+shift+c    --复制
+鼠标右键         --粘贴
 Ctrl+shift+v    --粘贴
 Ctrl+shift+r    --重命名标签栏
 Ctrl+alt+[\]    --水平拆分窗格，即左右拆分
