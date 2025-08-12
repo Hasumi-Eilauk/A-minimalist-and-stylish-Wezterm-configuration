@@ -1,4 +1,5 @@
-# 一款简单又不失风格的wezterm配置主题
+# A simple yet elegant wezterm configuration theme
+# 一款简单并优雅的wezterm配置主题
 
 **截图一**
 
