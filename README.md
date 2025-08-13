@@ -3,7 +3,8 @@
 
 **截图一**
 
-<img width="1551" height="885" alt="image" src="https://github.com/user-attachments/assets/ae264fca-0bfc-4f42-8c2c-aef3c0dac490" />
+<img width="1644" height="962" alt="image" src="https://github.com/user-attachments/assets/fa3e3dd5-7366-48c5-ab1f-f019c9d33926" />
+
 **截图二**
 <img width="1667" height="912" alt="image" src="https://github.com/user-attachments/assets/88d2c276-92d0-42af-820c-5908f49da157" />
 **截图三**
